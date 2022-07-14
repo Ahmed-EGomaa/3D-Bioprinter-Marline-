@@ -1,0 +1,12 @@
+The Zipped folder contains the the whole firmware of the modified marline. You can open the INO file and all the configurations files will be opened on the Arduino IDE. The modifications were done to the Configuration file only to increase the Extruder numbers and narrowing the temperature settings for all heated parts.
+This work done at Faculty of Biotechnology, MSA university, 6th October City, Cairo, Egypt.
+
+This work done by the following Authors as a graduation project Spring 2022: 
+  Rana Mohammed Korany (MSA Uni): Student and technical contributor: https://www.researchgate.net/profile/Rana-Korany
+  Ahmed Hossam Makshat (MSA Uni): Student and technical contributor: https://www.linkedin.com/in/ahmed-makshat-87b438245/
+  Yusuf Hesham Mohamed (MSA Uni): Student and technical contributor: https://www.linkedin.com/in/yusuf-hesham/
+  Rawan Ashraf Mohamed (MSA Uni): Student and technical contributor: https://www.researchgate.net/profile/Rawan-Ashraf-11
+  Ahmed Elsayed Gomaa (MSA Uni): Mentor and the technical guidance: https://www.linkedin.com/in/ahmed-e-gomaa-8a7b77135/
+  Ayman Diab (MSA Uni): The dean and principal Investigator: https://www.linkedin.com/in/prof-ayman-diab-b4849617/
+  
+  
